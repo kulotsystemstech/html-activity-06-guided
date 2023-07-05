@@ -306,3 +306,7 @@ to maintain column completeness.
 
 ***TODO***: Apply what you've learned about tables
 to finish the remaining three rows of the Schedule table.
+
+<small>
+<b>HINT:</b> For the italic <i>LUNCH BREAK</i> text, use the <code>&lt;i&gt;</code> tag.
+</small>
